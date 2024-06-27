@@ -4,10 +4,10 @@
 package suite_demo
 
 import (
-	"github.com/ozontech/allure-go/pkg/framework/provider"
+	"github.com/louisun/allure-go-v2/framework/provider"
 	"testing"
 
-	"github.com/ozontech/allure-go/pkg/framework/suite"
+	"github.com/louisun/allure-go-v2/framework/suite"
 )
 
 //TestRunningDemoSuite demonstrate parallel running

@@ -7,9 +7,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ozontech/allure-go/pkg/allure"
-	"github.com/ozontech/allure-go/pkg/framework/provider"
-	"github.com/ozontech/allure-go/pkg/framework/suite"
+	"github.com/louisun/allure-go-v2/allure"
+	"github.com/louisun/allure-go-v2/framework/provider"
+	"github.com/louisun/allure-go-v2/framework/suite"
 )
 
 type JSONStruct struct {

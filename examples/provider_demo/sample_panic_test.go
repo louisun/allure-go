@@ -6,8 +6,8 @@ package provider_demo
 import (
 	"testing"
 
-	"github.com/ozontech/allure-go/pkg/framework/provider"
-	"github.com/ozontech/allure-go/pkg/framework/runner"
+	"github.com/louisun/allure-go-v2/framework/provider"
+	"github.com/louisun/allure-go-v2/framework/runner"
 )
 
 func TestPanicProviderDemo(realT *testing.T) {

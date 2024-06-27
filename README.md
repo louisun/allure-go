@@ -123,7 +123,7 @@ Main features:
 **Step 0.** Install package
 
 ```bash
-go get github.com/ozontech/allure-go/pkg/framework
+go get github.com/louisun/allure-go/framework
 ```
 
 ### No Suite tests
@@ -409,11 +409,11 @@ ci-jobs, or you can roll the name of a branch.
 
 ### pkg/allure
 
-:page_facing_up: [pkg/allure documentation](./pkg/allure/README.md)
+:page_facing_up: [pkg/allure documentation](allure/README.md)
 
 ### pkg/framework
 
-:page_facing_up: [pkg/framework documentation](./pkg/framework/README.md)
+:page_facing_up: [pkg/framework documentation](framework/README.md)
 
 ### cute
 

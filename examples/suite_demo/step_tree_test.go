@@ -6,8 +6,8 @@ package suite_demo
 import (
 	"testing"
 
-	"github.com/ozontech/allure-go/pkg/framework/provider"
-	"github.com/ozontech/allure-go/pkg/framework/suite"
+	"github.com/louisun/allure-go-v2/framework/provider"
+	"github.com/louisun/allure-go-v2/framework/suite"
 )
 
 type StepTreeDemoSuite struct {
